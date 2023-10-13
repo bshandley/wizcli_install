@@ -1,6 +1,6 @@
 # WizCLI Installation Guide
 
-WizCLI is a command-line interface for managing your cloud resources effectively. This README provides step-by-step instructions for installing WizCLI on different platforms.
+WizCLI is a command-line interface for managing your cloud resources effectively. This README provides step-by-step instructions for installing WizCLI on different platforms. WizCLI will also be moved to a directory accessible in each platform's PATH, meaning that wizcli can be run from any directory. Running the same script on any platform will also update the WizCli application
 
 ## Table of Contents
 - [Linux](#linux)
