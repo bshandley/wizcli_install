@@ -18,8 +18,7 @@ To install WizCLI on a Linux machine, follow these steps:
 2. Open your terminal and navigate to the directory where the script is located.
 3. Run the following command:
    ```bash
-   chmod +x wizcli_linux_install.sh
-   ./wizcli_linux_install.sh
+   sh ./wizcli_linux_install.sh
    ```
 
 ---
@@ -32,8 +31,7 @@ Installing WizCLI on macOS is similar to Linux. Here's how:
 2. Open your terminal and navigate to the directory where the script is located.
 3. Run the following command:
    ```bash
-   chmod +x wizcli_mac_install.sh
-   ./wizcli_mac_install.sh
+   sh ./wizcli_mac_install.sh
    ```
 
 ---
